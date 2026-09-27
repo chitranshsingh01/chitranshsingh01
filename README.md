@@ -84,7 +84,7 @@
 ---
 
 ## 📊 GitHub Analytics
-
+<!--
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=chitranshsingh01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
@@ -92,7 +92,7 @@
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitranshsingh01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
-
+-->
 <br>
 
 <div align="center">
@@ -102,7 +102,7 @@
 </div>
 
 ---
-
+<!--
 ## 📈 GitHub Contribution Graph
 
 <div align="center">
@@ -112,7 +112,7 @@
 </div>
 
 ---
-
+-->
 ## 🔥 LeetCode
 
 <div align="center">
